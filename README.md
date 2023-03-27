@@ -33,7 +33,7 @@ As an extra task, you will add ratings and posters for your movies. This data sh
 
 ![bonus_task](https://user-images.githubusercontent.com/19295785/204007727-1023f65b-0707-46e0-9fc9-4d82d6651ab2.png)
 
-### ✅  Bonus Assignment criteria
+### ✅  Bonus feature criteria
 1. When a movie is selected, there should be a preview of the poster image and the ratings from Imdb, Rotten Tomatoes and MetaCritics in the detail view.
 
 2. Also an average rating should be calculated from the three ratings and displayed.
