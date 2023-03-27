@@ -12,7 +12,7 @@ As a minimum requirement for this assignment, fulfil all "Assignment criteria" l
 
 ### 🛠️ Tooling 
 
-At Etraveli Group, we're developing primarily using React and Redux, but you're free to complete this assignment in whichever way you're comfortable with. The only requirement we have is that it should be written in JavaScript or Typescript.
+At Etraveli Group, we're developing primarily using React, Redux and Jest with Typescript, but you're free to complete this assignment in whichever way you're comfortable with. The only requirement we have is that it should be written in JavaScript or Typescript.
 
 For this assignment, you should create a repository in Git and commit all your changes in it. How you will hand in your code is explained below.
 
